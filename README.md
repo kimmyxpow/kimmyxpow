@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![bbhpowpow's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbhpowpow&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/bbhpowpow/bbhpowpow)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbhpowpow&layout=compact&theme=tokyonight)](https://github.com/bbhpowpow/bbhpowpow)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bbhpowpow&theme=onedark)](https://github.com/bbhpowpow/bbhpowpow)
