@@ -1,8 +1,8 @@
 # Hi there 👋
 
-My real name is **Abi Noval Fauzi**, but I'm better known as ✨ _PowPow/Bambi_ ✨ in programming. I'm also known as A Envil or Bee in the world of writing. Now I'm attending a vocational high school in Bogor. I majored in software engineering.
+My real name is **Abi Noval Fauzi**, but I'm better known as ✨ _PowPow/Bambi_ ✨ in programming. I'm also known as ✨ _A Envil_ ✨ or ✨ _Bee_ ✨ in the world of writing. Now I'm attending a vocational high school in Bogor. I majored in software engineering.
 
-⚡ Fun fact : I'm an exol
+⚡ Fun fact : I'm an exol❤
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,8 +14,8 @@ My real name is **Abi Noval Fauzi**, but I'm better known as ✨ _PowPow/Bambi_ 
     </a>
 </p>
 
-<!-- [![bbhpowpow's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbhpowpow&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/bbhpowpow/bbhpowpow)
+[![bbhpowpow's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbhpowpow&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/bbhpowpow/bbhpowpow)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbhpowpow&layout=compact&theme=tokyonight)](https://github.com/bbhpowpow/bbhpowpow)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bbhpowpow&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/bbhpowpow/bbhpowpow) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=bbhpowpow&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/bbhpowpow/bbhpowpow)
