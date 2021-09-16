@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbhpowpow&layout=compact&theme=tokyonight)](https://github.com/bbhpowpow/bbhpowpow)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bbhpowpow&theme=onedark)](https://github.com/bbhpowpow/bbhpowpow)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bbhpowpow&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/bbhpowpow/bbhpowpow)
