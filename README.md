@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bbhpowpow&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/bbhpowpow/bbhpowpow) -->
 
-<!doctype html>
 <html lang="en">
   <head>
     <!-- Bootstrap CSS -->
