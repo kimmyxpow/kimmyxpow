@@ -1,4 +1,4 @@
-<!-- # Hi there 👋 -->
+# Hi there 👋
 
 <!--
 **bbhpowpow/bbhpowpow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,15 +28,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbhpowpow&layout=compact&theme=tokyonight)](https://github.com/bbhpowpow/bbhpowpow)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bbhpowpow&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/bbhpowpow/bbhpowpow) -->
-
-<html lang="en">
-  <head>
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
-  </head>
-  <body>
-    <h1>Hello, world!</h1>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
-  </body>
-</html>
