@@ -6,9 +6,9 @@ My real name is **Abi Noval Fauzi**, but I'm better known as ✨ _PowPow/Bambi_ 
 
 ![bbhpowpow's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbhpowpow&show_icons=true&count_private=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbhpowpow&layout=compact&theme=tokyonight)](https://github.com/bbhpowpow/bbhpowpow)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbhpowpow&layout=compact&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bbhpowpow&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/bbhpowpow/bbhpowpow)
+![trophy](https://github-profile-trophy.vercel.app/?username=bbhpowpow&theme=onedark&column=3&margin-w=15&margin-h=15)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
