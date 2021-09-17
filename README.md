@@ -4,7 +4,7 @@ My real name is **Abi Noval Fauzi**, but I'm better known as ✨ _PowPow/Bambi_ 
 
 ⚡ Fun fact : I'm an exol❤
 
-[![bbhpowpow's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbhpowpow&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/bbhpowpow/bbhpowpow)
+![bbhpowpow's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbhpowpow&show_icons=true&count_private=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbhpowpow&layout=compact&theme=tokyonight)](https://github.com/bbhpowpow/bbhpowpow)
 
