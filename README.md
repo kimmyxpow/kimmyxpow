@@ -1,3 +1,5 @@
+![Visitor Badge](https://visitor-badges.glitch.me?username=abinoval&repo=abinoval)
+
 # Hi there 👋
 
 My real name is **Abi Noval Fauzi**, but I'm better known as ✨ _PowPow/Bambi_ ✨ in programming. I'm also known as ✨ _A Envil_ ✨ or ✨ _Bee_ ✨ in the world of writing. Now I'm attending a vocational high school in Bogor. I majored in software engineering.
