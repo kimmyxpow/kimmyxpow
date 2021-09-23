@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-My real name is **Abi Noval Fauzi**, but I'm better known as ✨ _PowPow/Bambi_ ✨ in programming. Now I'm attending a vocational high school in Bogor. I majored in software engineering.
+My real name is **Abi Noval Fauzi**. Now I'm attending a vocational high school in Bogor. I majored in software engineering.
 
 ⚡ Fun fact : I'm an exol❤
 
