@@ -10,7 +10,7 @@ My real name is **Abi Noval Fauzi**. Now I'm attending a vocational high school 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abinoval&layout=compact&theme=tokyonight)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=abinoval&theme=onedark&column=3&margin-w=15&margin-h=15)
+<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=abinoval&theme=onedark&column=3&margin-w=15&margin-h=15) -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abinoval&theme=tokyonight)](https://git.io/streak-stats)
 
