@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abinoval&label=Profile%20Views&color=0e75b6&style=flat" alt="abinoval" />
   <h1>Hi there 👋</h1>
-  My real name is **Abi Noval Fauzi**. Now I'm attending a vocational high school in Bogor. I majored in software engineering.
-  ⚡ Fun fact : I'm an exol❤
+  <p>My real name is <b>Abi Noval Fauzi</b>. Now I'm attending a vocational high school in Bogor. I majored in software engineering.</p>
+  <p>⚡ Fun fact : I'm an exol❤</p>
   <img src="https://github-readme-stats.vercel.app/api?username=abinoval&show_icons=true&count_private=true&theme=tokyonight" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abinoval&theme=tokyonight" alt="Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinoval&layout=compact&theme=tokyonight" alt="Top Langs" />
