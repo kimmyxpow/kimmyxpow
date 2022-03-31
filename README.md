@@ -51,7 +51,7 @@ My real name is **Abi Noval Fauzi**. Now I'm attending a vocational high school 
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinoval&show_icons=true&locale=en&layout=compact&theme=onedark" alt="abinoval" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinoval&show_icons=true&locale=en&layout=compact&theme=onedark" alt="abinoval" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abinoval&show_icons=true&locale=en&theme=onedark" alt="abinoval" /></p>
 
