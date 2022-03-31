@@ -19,7 +19,7 @@ My real name is **Abi Noval Fauzi**. Now I'm attending a vocational high school 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinoval&label=Profile%20views&color=0e75b6&style=flat" alt="abinoval" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinoval" alt="abinoval" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinoval&theme=onedark" alt="abinoval" /></a> </p>
 
 - 🔭 I’m currently working on **My Achieve**
 
