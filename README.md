@@ -21,7 +21,7 @@ My real name is **Abi Noval Fauzi**. Now I'm attending a vocational high school 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinoval&theme=onedark&margin-w=15" alt="abinoval" /></a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinoval&show_icons=true&locale=en&layout=compact&theme=onedark" alt="abinoval" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinoval&show_icons=true&langs_count=10&locale=en&layout=compact&theme=onedark" alt="abinoval" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abinoval&show_icons=true&locale=en&theme=onedark" alt="abinoval" /></p>
 
