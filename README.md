@@ -1,21 +1,5 @@
-<!-- # Hi there 👋
-
-My real name is **Abi Noval Fauzi**. Now I'm attending a vocational high school in Bogor. I majored in software engineering.
-
-⚡ Fun fact : I'm an exol❤
-  
-![abinoval's GitHub stats](https://github-readme-stats.vercel.app/api?username=abinoval&show_icons=true&count_private=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aenvillife&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aenvillife&layout=compact&theme=tokyonight)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=aenvillife&theme=onedark&column=3&margin-w=15&margin-h=15) -->
- 
- <h1 align="center">Hi 👋, I'm Abi Noval Fauzi</h1>
+<h1 align="center">Hi 👋, I'm Abi Noval Fauzi</h1>
 <h3 align="center">Just random people you find on the internet</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aenvillife&label=Profile%20views&color=0e75b6&style=flat" alt="abinoval" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aenvillife&theme=onedark&margin-w=15" alt="abinoval" /></a> </p>
 
