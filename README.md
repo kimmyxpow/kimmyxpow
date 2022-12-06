@@ -1,6 +1,6 @@
 <!-- # Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=abinoval&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=aenvillife&label=Profile%20Views&color=0e75b6&style=flat)
 
 My real name is **Abi Noval Fauzi**. Now I'm attending a vocational high school in Bogor. I majored in software engineering.
 
@@ -8,28 +8,28 @@ My real name is **Abi Noval Fauzi**. Now I'm attending a vocational high school 
   
 ![abinoval's GitHub stats](https://github-readme-stats.vercel.app/api?username=abinoval&show_icons=true&count_private=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abinoval&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aenvillife&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abinoval&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aenvillife&layout=compact&theme=tokyonight)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=abinoval&theme=onedark&column=3&margin-w=15&margin-h=15) -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=aenvillife&theme=onedark&column=3&margin-w=15&margin-h=15) -->
  
  <h1 align="center">Hi 👋, I'm Abi Noval Fauzi</h1>
 <h3 align="center">Just random people you find on the internet</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abinoval&label=Profile%20views&color=0e75b6&style=flat" alt="abinoval" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aenvillife&label=Profile%20views&color=0e75b6&style=flat" alt="abinoval" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinoval&theme=onedark&margin-w=15" alt="abinoval" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aenvillife&theme=onedark&margin-w=15" alt="abinoval" /></a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinoval&show_icons=true&langs_count=10&locale=en&layout=compact&theme=onedark" alt="abinoval" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aenvillife&show_icons=true&langs_count=10&locale=en&layout=compact&theme=onedark" alt="abinoval" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abinoval&show_icons=true&locale=en&theme=onedark" alt="abinoval" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aenvillife&show_icons=true&locale=en&theme=onedark" alt="abinoval" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abinoval&theme=onedark" alt="abinoval" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aenvillife&theme=onedark" alt="abinoval" /></p>
 
-- 🔭 I’m currently working on **My Achieve**
+- 🔭 I’m currently working on **Scool**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **Tailwind CSS**
 
@@ -41,12 +41,12 @@ My real name is **Abi Noval Fauzi**. Now I'm attending a vocational high school 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/abinoval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abinoval" height="30" width="40" /></a>
-<a href="https://dev.to/abinoval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="powpow" height="30" width="40" /></a>
-<a href="https://instagram.com/envil.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="envil.a" height="30" width="40" /></a>
-<a href="https://dribbble.com/abinoval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bbhpowpow" height="30" width="40" /></a>
-<a href="https://medium.com/@abinoval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abinoval" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/developow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="developow" height="30" width="40" /></a>
+<a href="https://codepen.io/aenvillife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aenvillife" height="30" width="40" /></a>
+<a href="https://dev.to/aenvillife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aenvillife" height="30" width="40" /></a>
+<a href="https://instagram.com/aenvillife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aenvillife" height="30" width="40" /></a>
+<a href="https://dribbble.com/aenvillife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="aenvillife" height="30" width="40" /></a>
+<a href="https://medium.com/@aenvillife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aenvillife" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/aenvilcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aenvillife" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
