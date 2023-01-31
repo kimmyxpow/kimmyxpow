@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abi Noval Fauzi</h1>
 <h3 align="center">Just random people you find on the internet</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aenvillife&theme=onedark&margin-w=15" alt="abinoval" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abnfuuu&theme=onedark&margin-w=15" alt="abinoval" /></a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aenvillife&show_icons=true&langs_count=10&locale=en&layout=compact&theme=onedark" alt="abinoval" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abnfuuu&show_icons=true&langs_count=10&locale=en&layout=compact&theme=onedark" alt="abinoval" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aenvillife&show_icons=true&locale=en&theme=onedark" alt="abinoval" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abnfuuu&show_icons=true&locale=en&theme=onedark" alt="abinoval" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aenvillife&theme=onedark" alt="abinoval" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abnfuuu&theme=onedark" alt="abinoval" /></p>
 
 - 🔭 I’m currently working on **Scool**
 
