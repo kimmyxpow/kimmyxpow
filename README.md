@@ -76,8 +76,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/abnvlf/abnvlf/output/snake.svg" alt="Snake animation" />
 
 ###
