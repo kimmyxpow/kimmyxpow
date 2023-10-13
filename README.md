@@ -77,8 +77,10 @@
 
 ###
 
-<a href="https://open.spotify.com/user/31py3qwahsl76foqwc5f55butple">
+<!-- <a href="https://open.spotify.com/user/31py3qwahsl76foqwc5f55butple">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31py3qwahsl76foqwc5f55butple&count=5&unique=false" alt="Spotify recently played"  />
-</a>
+</a> -->
+
+[![An image of @abnvlf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abnvlf)](https://holopin.io/@abnvlf)
 
 ###
