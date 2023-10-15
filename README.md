@@ -73,9 +73,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/abnvlf/abnvlf/output/snake.svg" alt="Snake animation" />
-
-###
+<!-- <img src="https://raw.githubusercontent.com/abnvlf/abnvlf/output/snake.svg" alt="Snake animation" /> -->
 
 <!-- <a href="https://open.spotify.com/user/31py3qwahsl76foqwc5f55butple">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31py3qwahsl76foqwc5f55butple&count=5&unique=false" alt="Spotify recently played"  />
