@@ -60,6 +60,15 @@
 ###
 
 <!--START_SECTION:waka-->
+
+```txt
+Other          41 hrs 20 mins  ███████████████████░░░░░░   76.00 %
+TypeScript     5 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+SQL            3 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Svelte         1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+JSON           51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+```
+
 <!--END_SECTION:waka-->
 <!-- <img src="https://raw.githubusercontent.com/abnvlf/abnvlf/output/snake.svg" alt="Snake animation" /> -->
 
