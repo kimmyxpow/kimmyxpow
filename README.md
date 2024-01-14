@@ -59,6 +59,8 @@
 
 ###
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!-- <img src="https://raw.githubusercontent.com/abnvlf/abnvlf/output/snake.svg" alt="Snake animation" /> -->
 
 <!-- <a href="https://open.spotify.com/user/31py3qwahsl76foqwc5f55butple">
