@@ -57,11 +57,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte           305 hrs 13 mins ████████████████░░░░░░░░░   64.58 %
-TypeScript       64 hrs 48 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-SQL              35 hrs 38 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-HTML             13 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Blade Template   12 hrs 33 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Svelte           305 hrs 13 mins ████████████████░░░░░░░░░   64.28 %
+TypeScript       65 hrs 47 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
+SQL              36 hrs 43 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+HTML             13 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Blade Template   12 hrs 33 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
