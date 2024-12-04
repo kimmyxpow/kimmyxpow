@@ -96,3 +96,9 @@ Blade Template             39 hrs 12 mins  █░░░░░░░░░░░�
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://app.daily.dev/kimmyxpow"><img src="https://api.daily.dev/devcards/v2/7iThHcyatEBVnTBeYoZ1T.png?type=default&r=57e" width="356" alt="pow's Dev Card"/></a>
+</div>
+
+###
