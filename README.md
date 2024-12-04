@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/slXqsD1oE-4AAAAd/lyney-lynette.gif" width="800">
+<img src="https://media1.tenor.com/m/slXqsD1oE-4AAAAd/lyney-lynette.gif" width="900">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/abnvlf/count.svg?"  />
