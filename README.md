@@ -4,6 +4,12 @@
   <img src="https://profile-counter.glitch.me/abnvlf/count.svg?"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://www.codewars.com/users/kimmyxpow/badges/small" />
+</div>
+
 ### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> &nbsp; Hello, I'm Pow! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
 
 
@@ -57,9 +63,3 @@ Blade Template             39 hrs 12 mins  █░░░░░░░░░░░�
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://www.codewars.com/users/faishaldev">
-    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=kimmyxpow&theme=dark" width="400px" align="center" />
-  </a>
-</div>
