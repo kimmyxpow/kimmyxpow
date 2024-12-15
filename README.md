@@ -57,3 +57,9 @@ Blade Template             39 hrs 12 mins  █░░░░░░░░░░░�
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://www.codewars.com/users/faishaldev">
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=kimmyxpow&theme=dark" width="400px" align="center" />
+  </a>
+</div>
