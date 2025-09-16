@@ -1,0 +1,81 @@
+{
+    "[go]": {
+        "editor.defaultFormatter": "golang.go"
+    },
+    "[php]": {
+        "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+    },
+    "[prisma]": {
+        "editor.defaultFormatter": "Prisma.prisma"
+    },
+    "[svelte]": {
+        "editor.defaultFormatter": "svelte.svelte-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "charmed-icons.hidesExplorerArrows": true,
+    "flow-icons.hidesExplorerArrows": true,
+
+    "custom-ui-style.electron": {
+        "titleBarStyle": "hidden",
+        "trafficLightPosition": {
+            "y": 10,
+            "x": 16
+        }
+    },
+    "custom-ui-style.font.sansSerif": "'Dank Mono','Anonymous Pro', 'JetBrains Mono', Consolas, 'Courier New', monospace",
+    "custom-ui-style.stylesheet": {
+        ".monaco-workbench .part.editor>.content .editor-group-container>.title>.label-container>.title-label": "padding-left: 5rem;",
+        ".monaco-scrollable-element>.invisible.fade": "width: 1px !important;",
+        ".monaco-scrollable-element>.scrollbar>.slider": "width: 1px !important;"
+    },
+
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "block",
+    "editor.detectIndentation": true,
+    "editor.fontFamily": "'Dank Mono', 'Anonymous Pro', 'JetBrains Mono', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.guides.indentation": false,
+    "editor.lineHeight": 24,
+    "editor.links": false,
+    "editor.matchBrackets": "never",
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "none",
+    "editor.selectionHighlight": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.tabSize": 4,
+    "editor.wordWrap": "on",
+
+    "explorer.compactFolders": false,
+
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+
+    "prettier.printWidth": 120,
+    "prettier.tabWidth": 4,
+
+    "svelte.enable-ts-plugin": true,
+
+    "terminal.integrated.fontSize": 14,
+
+    "window.customTitleBarVisibility": "never",
+    "window.titleBarStyle": "native",
+    "window.zoomLevel": 0,
+
+    "workbench.activityBar.location": "hidden",
+    "workbench.colorTheme": "Night Coder Ash",
+    "workbench.editor.showTabs": "single",
+    "workbench.iconTheme": "flow-light",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "none",
+    "workbench.statusBar.visible": false,
+    "workbench.tree.indent": 14,
+    "workbench.tree.renderIndentGuides": "none"
+}
