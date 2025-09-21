@@ -2,6 +2,9 @@
     "[go]": {
         "editor.defaultFormatter": "golang.go"
     },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
     "[php]": {
         "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
     },
@@ -18,14 +21,16 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
 
+    "Devdb.colorTheme": "dark",
+
     "charmed-icons.hidesExplorerArrows": true,
     "flow-icons.hidesExplorerArrows": true,
 
     "custom-ui-style.electron": {
         "titleBarStyle": "hidden",
         "trafficLightPosition": {
-            "y": 10,
-            "x": 16
+            "x": 16,
+            "y": 10
         }
     },
     "custom-ui-style.font.sansSerif": "'Dank Mono','Anonymous Pro', 'JetBrains Mono', Consolas, 'Courier New', monospace",
@@ -44,6 +49,7 @@
     "editor.formatOnSave": true,
     "editor.guides.indentation": false,
     "editor.lineHeight": 24,
+    "editor.linkedEditing": true,
     "editor.links": false,
     "editor.matchBrackets": "never",
     "editor.minimap.enabled": false,
@@ -58,6 +64,13 @@
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
 
+    "gitlens.ai.generateCommitMessage.customInstructions": "Always write commits in the format \"<emoji> <type>: <short message>\" following Conventional Commits (types e.g. feat, fix, docs, style, refactor, test, chore) with a relevant emoji at the beginning.",
+    "gitlens.ai.generateCommits.customInstructions": "Always write commits in the format \"<emoji> <type>: <short message>\" following Conventional Commits (types e.g. feat, fix, docs, style, refactor, test, chore) with a relevant emoji at the beginning.",
+    "gitlens.ai.gitkraken.model": "gemini:gemini-2.0-flash",
+    "gitlens.ai.model": "openrouter:x-ai/grok-4-fast:free",
+
+    "php.linkedEditing.variables": true,
+
     "prettier.printWidth": 120,
     "prettier.tabWidth": 4,
 
@@ -65,7 +78,6 @@
 
     "terminal.integrated.fontSize": 14,
 
-    "window.customTitleBarVisibility": "never",
     "window.titleBarStyle": "native",
     "window.zoomLevel": 0,
 
